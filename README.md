@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi!
+
+It's time for skills to pay the bills :)
