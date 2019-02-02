@@ -2,4 +2,5 @@
 
 Hi!
 
-It's time for skills to pay the bills :)
+Willing to learn programming.
+Mainly as a hobby, but who knows! :)
