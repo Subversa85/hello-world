@@ -1,6 +1,6 @@
 # hello-world
 
-Hi!
+Hi peeps,
 
 Willing to learn programming.
 Mainly as a hobby, but who knows! :)
